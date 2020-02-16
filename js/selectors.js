@@ -15,11 +15,11 @@ function ninjaBabySelector(){
 
 //divSelector
 function divSelector(){
-  return $('#pic-list li:fist-child')
+  return $('#pic-list')
 }
 
 //firstListItem
 function firstListItem(){
-  return $('ul #pic-list')
+  return $('#pic-list li:fist-child')
 }
 
