@@ -18,5 +18,8 @@ function divSelector(){
   return $('.div')
 }
 
-//
+//firstListItem
+function firstListItem(){
+  return $('ul #pic-list')
+}
 
