@@ -10,5 +10,7 @@ function lastImageSelector(){
 
 //ninjaBabySelector
 function ninjaBabySelector(){
-  return $('#')
+  return $('#baby-ninja')
 }
+
+
